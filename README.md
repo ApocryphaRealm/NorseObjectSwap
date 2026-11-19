@@ -29,3 +29,7 @@ NorseDevTools reloads when a file in `objects\` is saved. Author guide: `package
 `docs\examples\`.
 
 0.1.0 tested in game (TEST-RESULT-0.1.0.txt). Not yet: `Chance`, placed props on a real mission map.
+
+## Licence
+
+GPL-3.0-or-later (see LICENSE).
